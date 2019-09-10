@@ -13,11 +13,11 @@
 
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "공부하는 기획자 neon"
+title                    : "공부하는 기획자 dark"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "hanpeace"
