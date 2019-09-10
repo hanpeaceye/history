@@ -1,5 +1,5 @@
 ---
-title: "hi"
+title: "기획자 시점 SQL 공부하기 Select"
 date: 2019-09-11 01:49:15 -0400
 categories: jekyll update
 ---
