@@ -1,6 +1,6 @@
 title: Welcome to my blog
-author: Han peace
-email: your-email@domain.com
+author: Han Peace
+email: hanpeaceyee@daum.net
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Adam Denisov
-  tagline: Developer. Designer
+  tagline: Product Owner
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
