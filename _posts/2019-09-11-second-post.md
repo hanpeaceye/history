@@ -1,7 +1,7 @@
 ---
-title: "기획자 시점 SQL 공부하기 1 (Select)"
+title: "기획자 시점 SQL 공부하기 1 (SELECT)"
 date: 2019-09-11 01:49:15 -0400
-categories: jekyll update
+categories: SQL
 ---
 
 ## 기획자 시점 SQL 공부하기
