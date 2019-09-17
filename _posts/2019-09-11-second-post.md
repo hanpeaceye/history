@@ -1,15 +1,15 @@
 ---
-title: "기획자 시점 SQL 공부하기 Select"
+title: "기획자 시점 SQL 공부하기 1 (Select)"
 date: 2019-09-11 01:49:15 -0400
 categories: jekyll update
 ---
 
-# #전지적 기획자 시점 SQL 공부하기 1
-## SQL기본 문법 - SELECT
+## 기획자 시점 SQL 공부하기
+### SQL기본 문법 - SELECT
 CRUD (Create, Read, Update, Delete) 중
 R(Read)에 해당하는
 
-### SELECT
+#### SELECT
 
 개인적으로 “어떤 컬럼을 선택해서 볼래?” 로 해석한다.
 (모든 컬럼을 보려면 컬럼명 대신 * 을 입력)
@@ -18,7 +18,7 @@ R(Read)에 해당하는
 SELECT  {이름, 성별, 전화번호}
 ```
 
-### FROM
+#### FROM
 
 개인적으로 “어떤 테이블에서 {이름, 성별, 전화번호}를 불러올거야?” 로 해석
 
