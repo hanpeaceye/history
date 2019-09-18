@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "공부하는 기획자2"
+title                    : "공부하는 기획자3"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "HAN PEACE2"
+name                     : "HAN PEACE3"
 description              : "description."
 url                      : "https://hanpeaceye.github.io"
 baseurl                  : ""
