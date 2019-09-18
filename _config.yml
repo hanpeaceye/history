@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "공부하는 기획자"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Han PEACE"
+name                     : "HAN PEACE"
 description              : "description."
 url                      : "https://hanpeaceye.github.io"
 baseurl                  : ""
